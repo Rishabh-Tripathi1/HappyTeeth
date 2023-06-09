@@ -2,7 +2,7 @@
 
 ## *Microsoft Future Ready Talent Internship Project*
 
-Azure link: [Wildlive Website](https://wildlive.z10.web.core.windows.net/)
+Azure link: [HappyTeeth Website](https://happyteeth.z10.web.core.windows.net/)
 
 ## Project Statement:
 
